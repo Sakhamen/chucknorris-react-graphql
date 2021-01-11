@@ -53,6 +53,6 @@ Navigate to `http://localhost:4200/` for Server and Navigate to `http://localhos
 
 ### Web App
 
-| Home  | Joke  |
-| -----------------| -----|
-| ![Home Page](/screenshot/2.png) | ![Joke Page](/screenshot/3.png) |
+![Home Page](/screenshot/2.png)
+
+![Joke Page](/screenshot/3.png)
