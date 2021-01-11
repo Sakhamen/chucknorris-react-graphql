@@ -1,7 +1,9 @@
 {
   "name": "server",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Apollo GraphQL API",
+  "author": "Sakhamen Mhlongo",
+  "homepage": "https://sakhamen.github.io/",
   "main": "index.js",
   "scripts": {
     "start": "nodemon -e js,graphql src/index.js",

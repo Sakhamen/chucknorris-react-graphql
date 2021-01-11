@@ -1,6 +1,8 @@
 {
   "name": "client",
-  "version": "0.1.0",
+  "version": "0.0.1",
+  "author": "Sakhamen Mhlongo",
+  "homepage": "https://sakhamen.github.io/",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.3.6",
